@@ -1,0 +1,9 @@
+name: nb-iris-dashboard
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - ipywidgets
+  - beautifulsoup4
+  - pandas
+  - seaborn
